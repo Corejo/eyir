@@ -1,4 +1,4 @@
-**Q:** Do you wait for 40 rage to cast Execute?
+**Q:** Do I wait for 40 rage to cast Execute?
 **A:** No, you want to use execute at any rage, the DPR scales linearly.
 
 **Q:** What is the general stat priority?
