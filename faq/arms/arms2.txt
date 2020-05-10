@@ -1,24 +1,20 @@
-**Q:** Do I wait for 40 rage to cast Execute?
-**A:** No, you want to use execute at any rage, the DPR scales linearly.
-
-**Q:** What is the general stat priority?
-**A:** Haste > Crit > Vers/Mastery > Strength
-__THIS CAN VARY FROM CHARACTER TO CHARACTER PLEASE SIM FOR MORE ACCURATE WEIGHTS__
-
 **Q:** What Gems/Enchants do I use?
 **A:** Gale-Force Striking on weapon, Haste gems and enchants on ring.
 
-**Q:** Are there any breakpoints we need to aim for?
-**A:** No, there are tons of breakpoints that are not impactful outside of a sim. 
+**Q:** Are there any alternative talents in Ny'alotha?
+**A:** Yes, the 45 and 75 row both have impactful choices for Arms.
+For the 45 row:
+Rend: Preffered for pure single target or low target cleave. Such as Ra-den, Shad'har and Xanesh
+Fervor of Battle: Used for heavier AoE fights such as Hivemind and Carapace. Still can be used on single target.
+Massacre: Used for bosses with shorter execute to get full value of Lucid during Execute phase. Fights such as Wrathion, Skitra and Il'gynoth
 
-**Q:** What talents/traits should I take for M+?
-**A:** 
+For the 75 row:
+Collateral is the prime choice for 2 target cleave. Ra-den and N'zoth are the perfect examples.
+Warbreaker: Only used for burst AoE, the only fights where this can see value is Wrathion or Carapace.
+Cleave: Best choice for 3+ target AoE. Hivemind and Vexiona are the best examples.
 
-If you're using Cleave. The talent set up is Skullsplitter, Storm Bolt, Fervor of Battle, Defensive Stance, Cleave, In for the Kill and Anger Management. With Test of Might for Azerite traits and Mastery/Haste focused for stats. In higher keys mobs tend to live longer and some pulls are bigger, which gives more potential for Cleave and Test of Might to pump out some serious AoE damage while still having decent single target.
-
-For the Warbreaker build, you'd choose Massacre and Warbreaker. Paired with Lord of War and Gathering Storm traits. With focus on Crit/Vers for stats. This build excels in burst AoE but lacks single target.
-
-__Both builds are equally viable in M+, it largely depends on how your group pulls and the composition of said group.__
+**Q:** What talents/should I take for M+?
+**A:** Skullsplitter, Stormbolt, Fervor of Battle, Defensive Stance, Cleave, In for the Kill and Anger Management
 
 **Q:** What Potions does Arms use?
 **A:** 
