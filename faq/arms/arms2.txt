@@ -1,6 +1,6 @@
 **Q:** What are the best Talents? Please note the level 40 row has no effect on pure single target.
-**A:** Venthyr: Sudden Death | Double Time default, Stormbolt for CC | Massacre | Defensive Stance | Deadly Calm or Avatar for AoE | Dreadnaught 
-       Non-Venthyr Sudden Death | Double Time default, Stormbolt for CC |Rend for Single target, Fervor for AoE | Defensive Stance| Avatar | Dreadnaught
+**A:** Venthyr: Sudden Death/Skullsplitter, Double Time or Stormbolt for CC, Massacre, Defensive Stance, Avatar, Dreadnaught 
+       Non-Venthyr Sudden Death, Double Time default or Stormbolt for CC, Rend for Single target, Fervor for AoE, Defensive Stance, Avatar, Dreadnaught
        Level 40 row for all Covenants: Collateral for 2 target, Warbreaker for Burst and Cleave for sustained AoE/Frequent pulls
 
 **Q:** Is Mortal Strike used in the Execute/Condemn phase?
